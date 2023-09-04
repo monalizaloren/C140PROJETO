@@ -2,7 +2,8 @@ song = "";
 
 function preload()
 {
-	song = loadSound("music_2.mp3");
+	//Coloque o nome da música
+	song = loadSound("???");
 }
 
 scoreRightWrist = 0;
